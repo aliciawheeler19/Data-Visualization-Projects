@@ -1,5 +1,5 @@
 # Data Visualization Projects
-Collection of Data Visualization projects.
+Collection of Data Visualization projects that were created using Observable.
 
 ## Third Project
 The Number of Songs by an Artist on Spotify Top 50 Songs in 2019 by Genre: https://observablehq.com/d/004dff895677a50b
