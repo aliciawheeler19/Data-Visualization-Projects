@@ -1,5 +1,11 @@
 # Data Visualization Projects
-Collection of Data Visualization projects that were created using Observable.
+Collection of Data Visualization projects that were created using Observable. Visualizations created using D3, Tableau, and Vega-Lite.
+
+## First Project
+Sneaker Sales by State for Off-White and Yeezy from StockX: https://observablehq.com/@aliciawheeler19/sneaker-sales-by-states-for-off-white-and-yeezy
+
+## Second Project
+Boston Department's Average Earnings for Employees in Comparison to all Employee Earnings: https://observablehq.com/@aliciawheeler19/boston-departments-average-earnings-for-employees-in-comp
 
 ## Third Project
 The Number of Songs by an Artist on Spotify Top 50 Songs in 2019 by Genre: https://observablehq.com/d/004dff895677a50b
