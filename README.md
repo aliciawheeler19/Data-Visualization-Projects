@@ -19,4 +19,5 @@ American Electric Power's Annual Energy Consumption by Month from 2004 to 2018: 
 Trades of Players to Teams of the National Basketball Association Through the Years: https://observablehq.com/d/7c16431c3e0a0ef2
 
 ## Final Project
-The NBA Through the Year's of 2000 to Present: https://sites.google.com/husky.neu.edu/nbaanalysis/home?authuser=0
+  * **Group Work:** The NBA Through the Year's of 2000 to Present: https://sites.google.com/husky.neu.edu/nbaanalysis/home?authuser=0
+  * **Individual Work:** The NBA Through the Year's of 2000 to Present: https://observablehq.com/d/17564c940d43fe6f
