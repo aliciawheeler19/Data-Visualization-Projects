@@ -1,4 +1,5 @@
 # Data Visualization Projects
+Data Visualization for DS4200 at Northeastern University
 Collection of Data Visualization projects that were created using Observable. Visualizations created using D3, Tableau, and Vega-Lite.
 
 ## First Project
